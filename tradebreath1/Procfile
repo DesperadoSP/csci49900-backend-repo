@@ -1,1 +1,1 @@
-web: gunicorn tbapp.wsgi
+web: gunicorn tradebreath1.wsgi
